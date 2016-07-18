@@ -1,3 +1,3 @@
 cd fooder/main/DB/imgRS
 
-http-server -p3002 .
+http-server -p5432 .

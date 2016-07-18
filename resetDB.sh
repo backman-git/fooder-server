@@ -1,5 +1,5 @@
 cd fooder/main/DB
 
-del foodersDB.db
+rm -f foodersDB.db
 
 python createFooderDB.py
